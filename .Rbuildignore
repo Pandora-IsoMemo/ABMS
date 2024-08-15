@@ -1,0 +1,17 @@
+^.+\.Rproj$
+^libWin$
+^libMac$
+^lib$
+^libLinux$
+^Dockerfile$
+^deps$
+^Jenkinsfile$
+^bin$
+^LICENSE\.md$
+^deploy\.sh$
+^\..*$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
