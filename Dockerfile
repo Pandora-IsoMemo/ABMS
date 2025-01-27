@@ -1,4 +1,4 @@
-FROM inwt/r-shiny:4.2.3
+FROM inwt/r-shiny:4.4.1
 
 ADD . .
 
